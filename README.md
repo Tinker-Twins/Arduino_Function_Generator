@@ -1,1 +1,1 @@
-# Arduino_Function_Generator
+# Arduino Function Generator
