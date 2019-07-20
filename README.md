@@ -1,6 +1,6 @@
 # Arduino Function Generator
 
-  This repository hosts the programs for generating fundamental waveforms (signals) using Arduino microcontroller.
+  This repository hosts the programs for generating fundamental waveforms (signals) using Arduino Microcontroller.
   
   Following are the supported waveform types:
   - DC
